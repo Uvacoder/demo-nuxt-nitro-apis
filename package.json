@@ -1,0 +1,17 @@
+{
+  "name": "nuxt-nitro-apis",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "nuxt generate",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "start": "node .output/server"
+  },
+  "dependencies": {
+    "@nuxt/nitro": "^0.6.3",
+    "core-js": "^3.9.1",
+    "nuxt": "^2.15.3"
+  },
+  "devDependencies": {}
+}
