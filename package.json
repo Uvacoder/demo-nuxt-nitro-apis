@@ -11,7 +11,9 @@
   "dependencies": {
     "@nuxt/nitro": "^0.6.3",
     "core-js": "^3.9.1",
-    "nuxt": "^2.15.3"
+    "nuxt": "^2.15.3",
+    "nuxt-nitro-helpers": "^0.1.0",
+    "waait": "^1.0.5"
   },
   "devDependencies": {}
 }

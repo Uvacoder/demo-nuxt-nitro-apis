@@ -6041,6 +6041,11 @@ number-is-nan@^1.0.0:
   resolved "https://registry.yarnpkg.com/number-is-nan/-/number-is-nan-1.0.1.tgz#097b602b53422a522c1afb8790318336941a011d"
   integrity sha1-CXtgK1NCKlIsGvuHkDGDNpQaAR0=
 
+nuxt-nitro-helpers@^0.1.0:
+  version "0.1.0"
+  resolved "https://registry.yarnpkg.com/nuxt-nitro-helpers/-/nuxt-nitro-helpers-0.1.0.tgz#5e9c53fe34034a0be5d1a07e03c9548f9c54b8a4"
+  integrity sha512-kUAXiV7mQKhZ+l6jmDz+Rgj+3xfdX6U3HMeRJaHUF4s74d+09p77obOi5vXBLShR9QtZL+JZAXtBIJ7mTWr05Q==
+
 nuxt@^2.15.3:
   version "2.15.6"
   resolved "https://registry.yarnpkg.com/nuxt/-/nuxt-2.15.6.tgz#628ff86d57c1d4671802777635ce7fd2c24f9091"
@@ -8922,6 +8927,11 @@ vuex@^3.6.2:
   version "3.6.2"
   resolved "https://registry.yarnpkg.com/vuex/-/vuex-3.6.2.tgz#236bc086a870c3ae79946f107f16de59d5895e71"
   integrity sha512-ETW44IqCgBpVomy520DT5jf8n0zoCac+sxWnn+hMe/CzaSejb/eVw2YToiXYX+Ex/AuHHia28vWTq4goAexFbw==
+
+waait@^1.0.5:
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/waait/-/waait-1.0.5.tgz#6a3c7aaa88bd0a1a545e9d47890b9595bebf9aa7"
+  integrity sha512-wp+unA4CpqxvBUKHHv8D86fK4jWByHAWyhEXXVHfVUZfK+16ylpj7hjQ58Z8j9ntu8XNukRQT8Fi5qbyJ8rkyw==
 
 watchpack-chokidar2@^2.0.1:
   version "2.0.1"
