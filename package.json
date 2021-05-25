@@ -9,7 +9,7 @@
     "start": "node .output/server"
   },
   "dependencies": {
-    "@nuxt/nitro": "^0.6.3",
+    "@nuxt/nitro": "^0.7.1",
     "core-js": "^3.9.1",
     "nuxt": "^2.15.3",
     "nuxt-nitro-helpers": "^0.1.0",
